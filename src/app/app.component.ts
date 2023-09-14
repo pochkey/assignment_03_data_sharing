@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'assignment_03_data_sharing';
+  txtApp = 'txt form app component';
 }
